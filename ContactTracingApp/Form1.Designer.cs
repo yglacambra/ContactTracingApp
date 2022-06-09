@@ -219,6 +219,7 @@
             this.BtnMonthVisited.TabIndex = 17;
             this.BtnMonthVisited.Text = "January";
             this.BtnMonthVisited.UseVisualStyleBackColor = true;
+            this.BtnMonthVisited.Click += new System.EventHandler(this.BtnMonthVisited_Click);
             // 
             // LblComma
             // 
